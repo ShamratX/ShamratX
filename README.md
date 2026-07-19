@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="YOUR_BANNER_URL_HERE" width="100%" alt="banner"/>
+<img src="https://github.com/ShamratX/ShamratX/blob/main/banner.png" width="100%" alt="banner"/>
 
 <br><br>
 
