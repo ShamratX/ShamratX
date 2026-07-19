@@ -109,25 +109,22 @@ I'm a <b>Smart Contract Engineer</b> specializing in building secure, scalable, 
 
 <p align="center">
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=ShamratX&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800"
-    alt="GitHub Stats"
-  />
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShamratX&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=1800"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://streak-stats.demolab.com?user=ShamratX&theme=github-dark&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
 
+<br>
+
+<h2 align="center">📈 Contribution Activity</h2>
+
+<p align="center">
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ShamratX&theme=github-dark&hide_border=true"
+    alt="Contribution Graph"
+  />
+</p>
 <h2 align="center">🚀 What I've Built</h2>
 
 <table align="center">
