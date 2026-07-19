@@ -196,7 +196,7 @@ Let's build secure, scalable, and production-ready Web3 solutions together.
 
 </p>
 
----
+
 
 <p align="center">
 <i>Engineering production-ready Web3 infrastructure.</i>
