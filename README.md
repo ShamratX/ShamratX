@@ -12,33 +12,7 @@
 
 <p>
 Building secure, scalable and production-ready Web3 infrastructure.
-  <h2 align="center">🌐 Connect With Me</h2>
 </p>
-<p align="center">
-
-<a href="https://www.catiq.xyz" target="_blank">
-<img src="https://img.shields.io/badge/🌍_Website-2563EB?style=for-the-badge&labelColor=111827&color=2563EB">
-</a>
-
-<a href="https://github.com/ShamratX" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://x.com/ShamratX" target="_blank">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR_USERNAME" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-</p>
-
-</div>
 <h2 align="center">🎯 Focus Areas</h2>
 
 <p align="center">
@@ -64,6 +38,32 @@ Building secure, scalable and production-ready Web3 infrastructure.
 <img src="https://img.shields.io/badge/Full--Stack_Web3-0891B2?style=for-the-badge"/>
 
 </p>
+ <h2 align="center">🌐 Connect With Me</h2>
+<p align="center">
+
+<a href="https://www.catiq.xyz" target="_blank">
+<img src="https://img.shields.io/badge/🌍_Website-2563EB?style=for-the-badge&labelColor=111827&color=2563EB">
+</a>
+
+<a href="https://github.com/ShamratX" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://x.com/ShamratX" target="_blank">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_USERNAME" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</p>
+
+</div>
 
 <h2 align="center">👨‍💻 About Me</h2>
 
@@ -85,25 +85,6 @@ I'm a <b>Smart Contract Engineer</b> specializing in building secure, scalable, 
 
 </p>
 
-<h2 align="center">🛠 Tech Stack</h2>
-
-<br>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=solidity,javascript,react,nodejs" />
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Foundry-111827?style=for-the-badge&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge&logo=ethereum&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white"/>
-
-</p>
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
