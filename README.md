@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/ShamratX/ShamratX/blob/main/banner.png" width="100%" alt="banner"/>
+<img src="https://github.com/ShamratX/ShamratX/blob/main/g.png" width="100%" alt="banner"/>
 
 <br><br>
 
