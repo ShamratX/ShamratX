@@ -29,7 +29,7 @@ Secure EVM contracts, Web3 frontends, and tooling — built for real deployment,
 <a href="https://x.com/ShamratX"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 <a href="https://www.catiq.xyz"><img src="https://img.shields.io/badge/CatIQ-0F172A?style=for-the-badge" alt="CatIQ"/></a>
 <a href="https://web3-kit.pages.dev"><img src="https://img.shields.io/badge/Web3_Kit-2563EB?style=for-the-badge" alt="Web3 Kit"/></a>
-<a href="https://github.com/townloc/townloc.com"><img src="https://img.shields.io/badge/Townloc-0F172A?style=for-the-badge" alt="Townloc"/></a>
+<a href="https://github.com/ShamratX/townloc.com"><img src="https://img.shields.io/badge/Townloc-0F172A?style=for-the-badge" alt="Townloc"/></a>
 </p>
 
 </div>
@@ -97,7 +97,7 @@ Multi-chain ICO / presale product (frontend + contracts in separate repos).
 
 Reusable Cloudflare Worker + Admin CMS package (live project + master guide).
 
-[Repo](https://github.com/townloc/townloc.com) · [Guide](https://github.com/townloc/townloc.com/blob/main/backend/worker/doc.md)
+[My fork](https://github.com/ShamratX/townloc.com) · [Guide](https://github.com/ShamratX/townloc.com/blob/main/backend/worker/doc.md) · [Upstream](https://github.com/townloc/townloc.com)
 
 </td>
 </tr>
