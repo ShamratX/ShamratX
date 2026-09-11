@@ -10,87 +10,96 @@
 
 <h3>Smart Contract Engineer • Full-Stack Web3 Developer</h3>
 
-<p>Building secure, scalable, production-ready Web3 infrastructure.</p>
-
-<h2 align="center">Focus Areas</h2>
+<p>
+Secure EVM contracts, Web3 frontends, and tooling — built for real deployment, not demos.
+</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Smart_Contracts-111827?style=for-the-badge&logo=ethereum&logoColor=white"/>
 <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge&logo=ethereum&logoColor=black"/>
-<img src="https://img.shields.io/badge/ICO_&_Presale-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Web3_DApps-0F172A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Wallet_Integration-059669?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/EVM_Chains-DC2626?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Developer_Tools-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Full--Stack_Web3-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React_+_Vite-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/EVM_Multi--Chain-2563EB?style=for-the-badge"/>
 </p>
 
-<h2 align="center">Connect</h2>
-
 <p align="center">
-<a href="https://shamratx.github.io/web3-services-website/" target="_blank"><img src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge&labelColor=111827&color=2563EB" alt="Website"/></a>
-<a href="https://github.com/ShamratX" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://x.com/ShamratX" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-<a href="https://www.catiq.xyz" target="_blank"><img src="https://img.shields.io/badge/CatIQ-0F172A?style=for-the-badge" alt="CatIQ"/></a>
+<a href="https://shamratx.github.io/web3-services-website/"><img src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge&labelColor=111827" alt="Website"/></a>
+<a href="https://github.com/ShamratX"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://x.com/ShamratX"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://www.catiq.xyz"><img src="https://img.shields.io/badge/CatIQ-0F172A?style=for-the-badge" alt="CatIQ"/></a>
+<a href="https://web3-kit.pages.dev"><img src="https://img.shields.io/badge/Web3_Kit-2563EB?style=for-the-badge" alt="Web3 Kit"/></a>
 </p>
 
 </div>
 
-<h2 align="center">About</h2>
+---
 
-<p align="center">
-Smart Contract Engineer focused on secure EVM applications — contract architecture and testing, full-stack dApps, wallet integration, and developer tooling. Emphasis on performance, security, and maintainability.
-</p>
+### About
 
-<p align="center">
-<a href="https://shamratx.github.io/web3-services-website/"><strong>View my Web3 services site →</strong></a>
-</p>
+I design and ship **production Web3 systems**: token and sales contracts, wallet-connected dApps, batch tooling, and the ops around them (deploy, verify, env wiring, UX). Focus is EVM — Ethereum and BNB Smart Chain — with clear security boundaries and maintainable architecture.
 
-<h2 align="center">GitHub Stats</h2>
+**Primary site:** [shamratx.github.io/web3-services-website](https://shamratx.github.io/web3-services-website/)
+
+---
+
+### GitHub activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ShamratX&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<br>
-
 <p align="center">
   <img width="95%" src="https://ghchart.rshah.org/2563EB/ShamratX" alt="Contribution Graph"/>
 </p>
 
-<h2 align="center">Selected Work</h2>
+---
 
-<table align="center">
+### Selected work
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
-### Web3 Services
+#### Web3 Services Site
 
-Portfolio site for smart contract and full-stack Web3 services.
+Static portfolio for smart-contract and full-stack Web3 services.
 
-<p>
-<a href="https://shamratx.github.io/web3-services-website/"><img src="https://img.shields.io/badge/Visit_Website-2563EB?style=for-the-badge" alt="Web3 Services"/></a>
-<a href="https://github.com/ShamratX/web3-services-website"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
-</p>
+[Live](https://shamratx.github.io/web3-services-website/) · [Code](https://github.com/ShamratX/web3-services-website)
 
 </td>
 <td width="50%" valign="top">
 
-### Web3 Kit
+#### Web3 Kit
 
-Production toolkit for token creation, airdrops, batch ops, and EVM utilities.
+Browser toolkit: token factory, airdrop, multisender, batch ops on ETH/BSC.
 
-<p>
-<a href="https://web3-kit.pages.dev"><img src="https://img.shields.io/badge/Visit_App-2563EB?style=for-the-badge" alt="Web3 Kit"/></a>
-<a href="https://github.com/ShamratX/web3-kit"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
-</p>
+[App](https://web3-kit.pages.dev) · [Code](https://github.com/ShamratX/web3-kit)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### CatIQ
+
+Multi-chain ICO / presale product (frontend + contracts in separate repos).
+
+[Site](https://www.catiq.xyz)
+
+</td>
+<td width="50%" valign="top">
+
+#### Token contracts
+
+Hardhat ERC-20 suites — DigitX, Veltrix, standard multi-network ERC-20, factories & batch executor.
+
+[GitHub](https://github.com/ShamratX?tab=repositories)
 
 </td>
 </tr>
 </table>
 
-<br>
+---
 
 <p align="center"><i>Engineering production-ready Web3 infrastructure.</i></p>
