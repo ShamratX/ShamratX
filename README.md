@@ -30,10 +30,10 @@
 <h2 align="center">Connect</h2>
 
 <p align="center">
-<a href="https://www.catiq.xyz" target="_blank"><img src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge&labelColor=111827&color=2563EB" alt="Website"/></a>
+<a href="https://shamratx.github.io/web3-services-website/" target="_blank"><img src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge&labelColor=111827&color=2563EB" alt="Website"/></a>
 <a href="https://github.com/ShamratX" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://x.com/ShamratX" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-<a href="https://shamratx.github.io/web3-services-website/" target="_blank"><img src="https://img.shields.io/badge/Services-0F172A?style=for-the-badge" alt="Services"/></a>
+<a href="https://www.catiq.xyz" target="_blank"><img src="https://img.shields.io/badge/CatIQ-0F172A?style=for-the-badge" alt="CatIQ"/></a>
 </p>
 
 </div>
@@ -42,6 +42,10 @@
 
 <p align="center">
 Smart Contract Engineer focused on secure EVM applications — contract architecture and testing, full-stack dApps, wallet integration, and developer tooling. Emphasis on performance, security, and maintainability.
+</p>
+
+<p align="center">
+<a href="https://shamratx.github.io/web3-services-website/"><strong>View my Web3 services site →</strong></a>
 </p>
 
 <h2 align="center">GitHub Stats</h2>
@@ -53,7 +57,7 @@ Smart Contract Engineer focused on secure EVM applications — contract architec
 <br>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShamratX&theme=github-dark&hide_border=true" alt="Contribution Graph"/>
+  <img width="95%" src="https://ghchart.rshah.org/2563EB/ShamratX" alt="Contribution Graph"/>
 </p>
 
 <h2 align="center">Selected Work</h2>
@@ -62,12 +66,13 @@ Smart Contract Engineer focused on secure EVM applications — contract architec
 <tr>
 <td width="50%" valign="top">
 
-### CatIQ
+### Web3 Services
 
-Multi-chain ICO and presale platform — contracts, wallet flow, and Web3 UX.
+Portfolio site for smart contract and full-stack Web3 services.
 
 <p>
-<a href="https://www.catiq.xyz"><img src="https://img.shields.io/badge/Visit_Website-2563EB?style=for-the-badge" alt="CatIQ"/></a>
+<a href="https://shamratx.github.io/web3-services-website/"><img src="https://img.shields.io/badge/Visit_Website-2563EB?style=for-the-badge" alt="Web3 Services"/></a>
+<a href="https://github.com/ShamratX/web3-services-website"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
 </p>
 
 </td>
