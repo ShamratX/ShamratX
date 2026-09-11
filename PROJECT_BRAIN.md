@@ -32,3 +32,8 @@ GitHub profile landing page for `@ShamratX`. Lives in the special repo `ShamratX
 ## Related product repos (docs elsewhere)
 
 web3-kit, web3-kit-factory-smart-contract, web3-kit-batch-executor-smart-contract, web3-services-website, catiq-ico, catiq-presale-contracts, digitx/veltrix/ERC20 Hardhat repos, tooling bots.
+
+## Townloc link
+
+Profile features public repo [townloc/townloc.com](https://github.com/townloc/townloc.com) and guide [backend/worker/doc.md](https://github.com/townloc/townloc.com/blob/main/backend/worker/doc.md). Source of truth stays on townloc; ShamratX profile only links it. Related: master-backend-for-every-frontend.
+

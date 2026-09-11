@@ -29,6 +29,7 @@ Secure EVM contracts, Web3 frontends, and tooling — built for real deployment,
 <a href="https://x.com/ShamratX"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 <a href="https://www.catiq.xyz"><img src="https://img.shields.io/badge/CatIQ-0F172A?style=for-the-badge" alt="CatIQ"/></a>
 <a href="https://web3-kit.pages.dev"><img src="https://img.shields.io/badge/Web3_Kit-2563EB?style=for-the-badge" alt="Web3 Kit"/></a>
+<a href="https://github.com/townloc/townloc.com"><img src="https://img.shields.io/badge/Townloc-0F172A?style=for-the-badge" alt="Townloc"/></a>
 </p>
 
 </div>
@@ -38,6 +39,8 @@ Secure EVM contracts, Web3 frontends, and tooling — built for real deployment,
 ### About
 
 I design and ship **production Web3 systems**: token and sales contracts, wallet-connected dApps, batch tooling, and the ops around them (deploy, verify, env wiring, UX). Focus is EVM — Ethereum and BNB Smart Chain — with clear security boundaries and maintainable architecture.
+
+I also build reusable **Cloudflare Worker + CMS** backends that can be copied across static websites (same kitchen, new dining room).
 
 **Primary site:** [shamratx.github.io/web3-services-website](https://shamratx.github.io/web3-services-website/)
 
@@ -90,9 +93,29 @@ Multi-chain ICO / presale product (frontend + contracts in separate repos).
 </td>
 <td width="50%" valign="top">
 
+#### Townloc — Backend + CMS
+
+Reusable Cloudflare Worker + Admin CMS package (live project + master guide).
+
+[Repo](https://github.com/townloc/townloc.com) · [Guide](https://github.com/townloc/townloc.com/blob/main/backend/worker/doc.md)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### Backend CMS Master
+
+Same style of master Worker/CMS kit under my account for client reuse.
+
+[Code](https://github.com/ShamratX/master-backend-for-every-frontend)
+
+</td>
+<td width="50%" valign="top">
+
 #### Token contracts
 
-Hardhat ERC-20 suites — DigitX, Veltrix, standard multi-network ERC-20, factories & batch executor.
+Hardhat ERC-20 suites — DigitX, Veltrix, standard multi-network ERC-20, factories and batch executor.
 
 [GitHub](https://github.com/ShamratX?tab=repositories)
 
